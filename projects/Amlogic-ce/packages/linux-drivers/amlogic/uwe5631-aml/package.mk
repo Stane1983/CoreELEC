@@ -2,12 +2,12 @@
 # Copyright (C) 2022-present Team CoreELEC (https://coreelec.org)
 
 PKG_NAME="uwe5631-aml"
-PKG_VERSION="df31fe79d3a5875a23e1d7e25852e35de1c25e43"
+PKG_VERSION="38741940ee5ff1050af79616c8774f9aaca39f80"
 PKG_SHA256=""
 PKG_ARCH="aarch64"
 PKG_LICENSE="GPL"
-PKG_SITE="https://github.com/CoreELEC/uwe5631-aml"
-PKG_URL="https://github.com/CoreELEC/uwe5631-aml/archive/${PKG_VERSION}.tar.gz"
+PKG_SITE="https://github.com/Stane1983/uwe5631-aml"
+PKG_URL="https://github.com/Stane1983/uwe5631-aml/archive/${PKG_VERSION}.tar.gz"
 PKG_DEPENDS_TARGET="toolchain linux"
 PKG_NEED_UNPACK="${LINUX_DEPENDS}"
 PKG_LONGDESC="uwe5631-aml: Unisoc UWE5621 WIFI/BT driver"
